@@ -2,7 +2,7 @@
 A simple robot who rides waves to dodge their opponents attacks and avoid obstacles.
 
 
-A simple yet effective robot for robocode
+A simple yet effective robot for robocode (made for a university competition, came 1st in both 1v1 and FFA)
 
 https://robocode.sourceforge.io/
 
